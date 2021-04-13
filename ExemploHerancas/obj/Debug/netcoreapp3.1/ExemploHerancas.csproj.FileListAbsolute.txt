@@ -1,0 +1,13 @@
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\bin\Debug\netcoreapp3.1\ExemploHerancas.exe
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\bin\Debug\netcoreapp3.1\ExemploHerancas.deps.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\bin\Debug\netcoreapp3.1\ExemploHerancas.runtimeconfig.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\bin\Debug\netcoreapp3.1\ExemploHerancas.runtimeconfig.dev.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\bin\Debug\netcoreapp3.1\ExemploHerancas.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\bin\Debug\netcoreapp3.1\ExemploHerancas.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\obj\Debug\netcoreapp3.1\ExemploHerancas.csprojAssemblyReference.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\obj\Debug\netcoreapp3.1\ExemploHerancas.AssemblyInfoInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\obj\Debug\netcoreapp3.1\ExemploHerancas.AssemblyInfo.cs
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\obj\Debug\netcoreapp3.1\ExemploHerancas.csproj.CoreCompileInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\obj\Debug\netcoreapp3.1\ExemploHerancas.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\obj\Debug\netcoreapp3.1\ExemploHerancas.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ExemploHerancas\ExemploHerancas\obj\Debug\netcoreapp3.1\ExemploHerancas.genruntimeconfig.cache
